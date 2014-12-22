@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WIFI Control</string>
+    <string name="scan">Scan</string>
+    <string name="set_wifi_info">set Wifi PassWord</string>
+    <string name="check_wifi_info">Check Wifi Info</string>
+    <string name="send_wifi_info">Send Info</string>
+    <string name="sure">Sure</string>
+    <string name="no">No</string>
+    <string name="warming">Warning</string>
+    <string name="checkstatus">Wifi is off now..\nDo you want to open Wifi ?</string>
+    <string name="openwifi">Opening wifi</string>
+    <string name="ssid">SSID</string>
+    <string name="pwd">PassWord</string>
+    <string name="bssid">MAC Address</string>
+    <string name="entry">Entry</string>
+    <string name="sql_success">Set Wifi Info Success</string>
+    <string name="sql_error">Set Wifi Info Error</string>
+    <string name="connect_error">cannot send Wifi Info..\nhave no password to connect</string>
+    <string name="wifi_off">cannot send Wifi Info..\nWifi is off now</string>
+    <string name="wifi_no_pwd">cannot send Wifi Info..\nconnect error</string>
+	<string name="Scan">scan...</string>
+	<string name="PopWifiNull">Send faild, Not this item or PW is null!</string>
+	<string name="sendOK">Operate OK</string>
+	<string name="sendFaild">Operate Faild</string>
+	<string name="pleaseWait">Pleasewait...</string>
+	<string name="Databeingprocessed">dictate is sending...</string>
+	<string name="WifiSetting">Module Setting</string>
+	<string name="WLENSetting">WLEN Para Setting</string>
+	<string name="WifiName">WIFI Name</string>
+	<string name="Wifipw">WIFI PWD</string>
+	<string name="Done">Done</string>
+	<string name="Cancel">Cancel</string>
+	<string name="Wlanip">IP</string>
+	<string name="Wlancom">COM</string>
+	<string name="WIFI_NAME_NO_INIT">Connect this WIFI name is null</string>
+	<string name="SAVE">SAVE</string>
+	<string name="SEND">SEND</string>
+	<string name="IP_WRONG">The format is not correct, please enter again!</string>
+	<string name="PORT_WRONG">The port number can not is empty !</string>
+	<string name="WIFI_CONNECT">WIFI is connecting...</string>
+</resources>

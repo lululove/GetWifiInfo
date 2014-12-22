@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WIFI 控制</string>
+    <string name="scan">扫描</string>
+    <string name="set_wifi_info">设置WIFI密码</string>
+    <string name="check_wifi_info">查看WIFI内容</string>
+    <string name="send_wifi_info">发送</string>
+    <string name="sure">确定</string>
+    <string name="no">取消</string>
+    <string name="warming">提示</string>
+    <string name="checkstatus">WIFI处理关闭状态，是否打开WIFI?</string>
+    <string name="openwifi">正在为您打开WIFI</string>
+    <string name="ssid">名称</string>
+    <string name="pwd">密码</string>
+    <string name="bssid">MAC地址</string>
+    <string name="entry">加密方式</string>
+    <string name="sql_success">WIFI设置成功!</string>
+    <string name="sql_error">WIFI设置失败!</string>
+    <string name="connect_error">发送未完成,未进行WIFI密码设置</string>
+    <string name="wifi_off">发送未完成,Wifi处于关闭状态!</string>
+    <string name="wifi_no_pwd">发送未完成,连接错误!</string>
+	<string name="Scan">正在扫描...</string>
+	<string name="PopWifiNull">发送失败，请查看是否未设置密码！</string>
+	<string name="sendOK">操作成功！</string>
+	<string name="sendFaild">操作失败！</string>
+	<string name="pleaseWait">请稍等...</string>
+	<string name="Databeingprocessed">数据正在发送...</string>
+	<string name="WifiSetting">模块设置</string>
+	<string name="WLENSetting">网络参数设置</string>
+	<string name="WifiName">WIFI 名称</string>
+	<string name="Wifipw">WIFI 密码</string>
+	<string name="Done">确定</string>
+	<string name="Cancel">取消</string>
+	<string name="Wlanip">IP</string>
+	<string name="Wlancom">端口号</string>
+	<string name="WIFI_NAME_NO_INIT">连接的WIFI名字是空!</string>
+	<string name="SAVE">保存</string>
+	<string name="SEND">发送</string>
+	<string name="IP_WRONG">IP格式不正确，请重新输入!</string>
+	<string name="PORT_WRONG">端口号不能为空!</string>
+	<string name="WIFI_CONNECT">WIFI 连接中...</string>
+</resources>
